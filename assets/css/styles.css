@@ -23,6 +23,7 @@
   --blue-color:#387CFF;
   --yellow-color:#FDDD00;
   --black-color:black;
+  --silver-color:#E3E3E3;
   --scroll-bar-color: hsl(var(--hue-color), 12%, 90%);
   --scroll-thumb-color: hsl(var(--hue-color), 12%, 80%);
 
@@ -421,7 +422,7 @@ input {
 /*=============== BUTTONS ===============*/
 .button {
   display: inline-block;
-  background-color: var(--white-color);
+  background-color: var(--silver-color);
   color: black;
   padding: 1rem 2rem;
   font-weight: var(--font-semi-bold);
