@@ -367,7 +367,7 @@ input {
 .home__data-title, 
 .home__social-link, 
 .home__info {
-  color: var(--white-color);
+  color: var(--yellow-color);
 }
 
 .home__data-subtitle {
